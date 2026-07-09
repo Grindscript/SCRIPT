@@ -1,0 +1,2 @@
+-- +1 Shrink Per Step Super OP 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grindscript/Atomic/refs/heads/main/ShrinkPerStep", true))()
