@@ -1,0 +1,2 @@
+--Drain The Lake Super OP Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grindscript/Atomic/refs/heads/main/drainthelake", true))()
