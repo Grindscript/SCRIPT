@@ -1,0 +1,2 @@
+-- +1 Strength Per Click OP script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grindscript/Atomic/refs/heads/main/strengthperclick", true))()
