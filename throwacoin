@@ -1,0 +1,2 @@
+--Throw A Coin Super OP Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grindscript/Atomic/refs/heads/main/throwacoin", true))()
