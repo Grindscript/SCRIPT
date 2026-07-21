@@ -1,0 +1,2 @@
+--+1 Pickaxe Swing Escape OP Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grindscript/Atomic/refs/heads/main/pickaxeswingescape", true))()
